@@ -14026,7 +14026,8 @@ a.list-group-item {
 
 .main {
     /* background: #f5f7fb; */
-    background: #f1f2f3;
+    /* background: #f1f2f3; */
+    background: #fff;
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
     display: flex;
@@ -14233,8 +14234,8 @@ body[data-sidebar-position="right"] .navbar-align {
 
 .navbar-bg,
 body[data-theme="dark"] .navbar-bg {
-    /* background: #fff; */
-    background: var(--bs-body-light-th);
+    background: #fff;
+    /* background: var(--bs-body-light-th); */
 }
 
 
@@ -14583,7 +14584,8 @@ screen and (-ms-high-contrast: active) {
 .sidebar,
 body[data-theme="dark"] .sidebar {
     /* background: #222e3c; */
-    background: #f1f2f3;
+    /* background: #f1f2f3; */
+    background: #fff;
 }
 
 body[data-theme="light"] .sidebar {
