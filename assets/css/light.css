@@ -14966,8 +14966,8 @@ body[data-theme="light"] .sidebar-dropdown .sidebar-item.active .sidebar-link {
     font-size: 1.15rem;
     font-weight: 600;
     padding: 1.15rem 1.5rem;
-    background-color: #e1e1e1;
-    border-top-right-radius: 36px;
+    background-color: #ebebeb;
+    /* border-top-right-radius: 36px; */
 }
 
 body[data-theme="dark"] .sidebar-brand {
